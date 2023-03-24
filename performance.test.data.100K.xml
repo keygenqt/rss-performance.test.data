@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	>
+
+	<channel>
+		<title>Тест производительности ОС KMM JS Aurora</title>
+		<link>https://auroraos.ru/blog</link>
+		<description>Инструменты разработчика для профессионалов и команд</description>
+		<lastBuildDate>Thu, 24 Mar 2023 07:51:57 +0000</lastBuildDate>
+		<language>ru-RU</language>
+		<image>
+			<url>https://static.tildacdn.com/tild3163-3336-4535-a538-336538356462/logo-head.svg</url>
+			<title>Aurora logo</title>
+			<link>https://blog.jetbrains.com</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Как просто создать web-application под ОС Аврора</title>
+			<link>https://auroraos.ru/tpost/heox5rljd1-kak-prosto-sozdat-web-application-pod-os</link>
+			<pubDate>Thu, 06 Mar 2023 07:50:57 +0000</pubDate>
+			<featuredImage>https://static.tildacdn.com/tild6365-6138-4163-b865-373337663161/F_DES-938_WBN_Banner.png</featuredImage>
+			<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&#038;p=335548</guid>
+			<description><![CDATA[Смотрите запись вебинара-практикума для заказчиков, которые хотят улучшить пользовательский опыт сотрудников, собирая простые веб-приложения ...]]></description>
+			<content:encoded><![CDATA[3 марта состоялся вебинар «Как просто создать web-application под ОС Аврора», на котором мы рассказали и показали, насколько легко и удобно собирать приложения с веб-интерфейсом, а также представили интересные возможности Аврора SDK – набора инструментов для разработки приложений на ОС Аврора.<br><br>В программе:<br><ul><li>Варианты создания приложений под ОС Аврора.</li><li>Что такое Web-application?</li><li>Аврора SDK: подсказки, подпись приложений, валидация.</li><li>Практикум.</li></ul><br>Смотреть можно на любой из двух площадок:<br><ul><li>Сообщество ВКонтакте: <a href="https://clck.ru/33hQhu">https://clck.ru/33hQhu</a></li><li>YouTube-канал: <a href="https://www.youtube.com/watch?v=kCrRd_6abaw">https://www.youtube.com/watch?v=kCrRd_6abaw</a></li></ul><br>Вопросы можно направить на <a href="mailto:webinar@omp.ru">webinar@omp.ru</a>.]]></content:encoded>
+		</item>
+	</channel>
+</rss>
